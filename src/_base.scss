@@ -11,50 +11,6 @@ $mainLine: #64F9CD;
 $mainlineDark: #00b3d6;
 $hover: #3078ec;
 
-
-.button-text {
-    background: -webkit-linear-gradient($mainlineDark, $mainLine);
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    -moz-background-clip: text; 
-    -moz-text-fill-color: transparent;
-}
-
-button.round-button {
-    display:inline-block;
-    font-weight: 600;
-    font-size: 1.3em;
-    padding: 0.5em 1.5em;
-    border-radius: 3em;
-    border: none;
-    background-clip: text;
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    -moz-background-clip: text; 
-    -moz-text-fill-color: transparent;
-    cursor: pointer;
-    border: 3px solid $mainlineDark;
-}
-
-.round-button:hover, .round-button:active {
-    background: -webkit-linear-gradient($mainLine, $mainLine);
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    border: 3px solid $mainLine;
-
-    .button-text {
-        background: -webkit-linear-gradient($mainLine, $mainLine);
-        background-clip: text;
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        -moz-background-clip: text; 
-        -moz-text-fill-color: transparent;
-    }
-}
-
 .paragraph {
     font-family: 'Work Sans', sans-serif;
     font-size: 1.2em;
