@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "title": "Creating and utilizing virtual models and tours on the website",
+            "content": "The aims of this project were to explore 3D imaging technologies and to demonstrate how 3D content can be used on the web./ This was created as part of a Media Services project with Irina Konovalova at Metropolia University of Applied Sciences./ We studied photogrammetry, LiDAR and TrueDepth technologies. Made virtual tours with Matterport camera and looked alternatives to it. /We made this page using Webpack, Pug, Bootstrap, Scss, Three.js./",
+            "image": "https://users.metropolia.fi/~ailip/portfolio/images/medialab.jpg",
+            "linkToPage": "https://users.metropolia.fi/~ailip/3dProjectFinal/",
+            "linkName": "Github",
+            "link": "https://github.com/AiliAi/3dProjectFinal"
+        },
+        {
+            "title": "Media Day 2022",
+            "content": "The aim of this project was to create an events page that would include a live video stream, promotional and archive videos, calendar and information about the performers for the Media Day 2022 event./ This was created as part of a Media distribution and data flows course with Irina Konovalova at Metropolia University of Applied Sciences./ We used OBS Studio for video capturing and the Wowza cloud server to broadcast our event live./ Code is written with React, Bootstrap and runs on an Azure cloud Ubuntu server./",
+            "image": "https://users.metropolia.fi/~ailip/portfolio/images/mediaDayT.jpg",
+            "linkToPage": "https://media-server-ap.northeurope.cloudapp.azure.com/",
+            "linkName": "Github",
+            "link": "https://github.com/AiliAi/mediaday2022"
+        },
+        {
+            "title": "Creative coding",
+            "content": "I have long been interested in creative coding and P5.js, a JavaScript library for creative coding. I took a course of study offered by NYUx, an online learning initiative of New York University to gain a better understanding of the subject./ I learned how to use pictures, video, API and JSON to visualize data, make animations, manipulate text, make complex and harmonious shapes with lissajous curves, use objects and classes in creative way./ On the Openprocessing page you can find my creative coding projects. In their editor, you can view and manipulate the code yourself to see the changes in real time./",
+            "image": "https://users.metropolia.fi/~ailip/portfolio/images/openFlower.jpg",
+            "linkToPage": "https://openprocessing.org/user/271977?view=sketches",
+            "linkName": "Certificate",
+            "link": "https://courses.edx.org/certificates/678138e773b5435cbea01b77e7fc9793"
+        },
+        {
+            "title": "Environmental idealists",
+            "content": "The goal of this project was to create a React page that uses the backend API and takes into account the best user experience and serves people in some way./ This was created as part of a Media services and user experience course with Vilho Voutilainen at Metropolia University of Applied Sciences./ We learned to make our service more user-friendly by doing user experience research and testing. Also learned to work with backend API./ The page is made using React, Material-UI and uses school’s backend API./",
+            "image": "https://users.metropolia.fi/~ailip/portfolio/images/hands.jpg",
+            "linkToPage": "https://users.metropolia.fi/~ailip/environmental_idealist",
+            "linkName": "Github",
+            "link": "https://github.com/AiliAi/mpjkk-project"
+        },
+        {
+            "title": "Metropolia info app",
+            "content": "The aim of this project was to create a progressive web app with mobile first design for Metropolia students, where they could look up lunch menus, bus times, etc./ This was created as part of a Web technologies and media platforms course with Vilho Voutilainen at Metropolia University of Applied Sciences./ We learned to work with JSON data from api and files and design a mobile first progressive web app./ The page is made using Webpack, Javascript, Scss./",
+            "image": "https://users.metropolia.fi/~ailip/portfolio/images/karamalmi.jpg",
+            "linkToPage": "https://users.metropolia.fi/~ailip/metropoliaInfoApp/",
+            "linkName": "Github",
+            "link": "https://github.com/AiliAi/wpa-MetropoliaInfoApp"
+        }
+    ]
+}
