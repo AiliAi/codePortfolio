@@ -16,12 +16,12 @@
         },
         {
             "title": "Keywords",
-            "content": "Javascript/ Php/ Java/ C#/ Kotlin/ Android Studio/ Unity/ SQL/ Azure cloud/ Ubundu/ Node.js/ Express/ React/ Webpack/ P5.js/ Three.js/ Html/ Pug/ Css/ Scss/ Bootstrap/ Material-UI/ Wordpress/ Photoshop/ Illustrator/ AdobeXD/ Premiere Pro/ live streamings/ OBS",
+            "content": "Javascript/ Php/ Java/ C#/ Kotlin/ Unity/ SQL/ Azure cloud/ Ubundu/ Node.js/ Express/ React/ Webpack/ P5.js/ Three.js/ Html/ Pug/ Css/ Scss/ Bootstrap/ Material-UI/ Wordpress/ Photoshop/ Illustrator/ AdobeXD/ Premiere Pro/ live streamings/ OBS",
             "shape": "keywords"
         },
         {
             "title": "Plans",
-            "content": "1. Complete the University of Helsinki Mooc Fullstack (React) course./ 2. Complete the 3D Modelling and mixed reality application course at Metropolia University of Applied Sciences.// 3. Find an internship.",
+            "content": "1. Complete the University of Helsinki Mooc Fullstack course (React Native, MongoDB, testing, Redux, Typescript, GraphQL)./ 2. Complete the 3D Modelling and mixed reality application course at Metropolia University of Applied Sciences.",
             "shape": "plans"
         }
     ]

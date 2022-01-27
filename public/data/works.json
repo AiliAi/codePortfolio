@@ -18,7 +18,7 @@
         },
         {
             "title": "Creative coding",
-            "content": "I have long been interested in creative coding and P5.js, a JavaScript library for creative coding. I took a course of study offered by NYUx, an online learning initiative of New York University to gain a better understanding of the subject./ I learned how to use pictures, video, API and JSON to visualize data, make animations, manipulate text, make complex and harmonious shapes with lissajous curves, use objects and classes in creative way./ On the Openprocessing page you can find my creative coding projects. In their editor, you can view and manipulate the code yourself to see the changes in real time./",
+            "content": "I have long been interested in creative coding and P5.js, a JavaScript library for creative coding. I took a course of study offered by NYUx, an online learning initiative of New York University to gain a better understanding of the subject./ I learned how to use pictures, video, JSON to visualize data, make animations, manipulate text, make complex and harmonious shapes with lissajous curves, use objects and classes in creative way./ On the Openprocessing page you can find my creative coding projects. In their editor, you can view and manipulate the code yourself to see the changes in real time./",
             "image": "https://users.metropolia.fi/~ailip/portfolio/images/openFlower.jpg",
             "linkToPage": "https://openprocessing.org/user/271977?view=sketches",
             "linkName": "Certificate",
